@@ -1,4 +1,4 @@
-DTSL - 2D Triangulations
+DTSL - 2D Triangulation
 
 Authors:
 - Borut Žalik
