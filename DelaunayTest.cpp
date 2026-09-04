@@ -8,7 +8,7 @@
 #include "MySweepLDT.h"
 
 int exampleUsage() {
-  std::ifstream file("samples/clus1000000.pnt");
+  std::ifstream file("DTSL - Testing datasets/clus1000000.pnt");
 
   if (!file) {
     std::cerr << "Cannot open points.txt\n";
